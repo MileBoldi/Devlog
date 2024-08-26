@@ -1,0 +1,3 @@
+Creating a full RPG backend
+Learn basic levels of graphics programing or technical art
+Learn how to properly make models that look good
