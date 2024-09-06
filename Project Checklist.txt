@@ -5,3 +5,4 @@ Quest system
 Dialogue system
 Weather system
 Economy system
+Inventory system ✔
